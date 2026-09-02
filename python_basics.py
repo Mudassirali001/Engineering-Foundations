@@ -1,11 +1,11 @@
-name = "Fahad"
+name = "Mudassir Ali"
 
 subjects = ["Math", "English", "AI"]
 
 student = {
-    "name": "Fahad",
-    "roll_no": "F23-0421",
-    "program": "SE"
+    "name": "Mudassir Ali",
+    "roll_no": "F23-0167",
+    "program": "CS"
 }
 
 posts = [
